@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Eyw/qp90oNw5SdADiZ7rSNfENHrmRysFiIjjo36LEryAuucOLL46ublsnk+qi0ZyraNFbXjSmFPsC2j09rmwEA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vanmo\\Desktop\\Pour github\\API_Game avec commentaires\\API_Game_BLL\\API_Game_BLL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vanmo\\.nuget\\packages\\isopoh.cryptography.argon2\\1.1.12\\isopoh.cryptography.argon2.1.1.12.nupkg.sha512",
+    "C:\\Users\\vanmo\\.nuget\\packages\\isopoh.cryptography.blake2b\\1.1.12\\isopoh.cryptography.blake2b.1.1.12.nupkg.sha512",
+    "C:\\Users\\vanmo\\.nuget\\packages\\isopoh.cryptography.securearray\\1.1.12\\isopoh.cryptography.securearray.1.1.12.nupkg.sha512"
+  ],
+  "logs": []
+}

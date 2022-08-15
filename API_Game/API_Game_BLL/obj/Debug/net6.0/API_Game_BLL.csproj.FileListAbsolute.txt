@@ -1,0 +1,45 @@
+C:\Users\studentdot0410\Desktop\Cours\API\API_Game\API_Game_BLL\bin\Debug\net6.0\API_Game_BLL.deps.json
+C:\Users\studentdot0410\Desktop\Cours\API\API_Game\API_Game_BLL\bin\Debug\net6.0\API_Game_BLL.dll
+C:\Users\studentdot0410\Desktop\Cours\API\API_Game\API_Game_BLL\bin\Debug\net6.0\API_Game_BLL.pdb
+C:\Users\studentdot0410\Desktop\Cours\API\API_Game\API_Game_BLL\bin\Debug\net6.0\API_Game_DAL.dll
+C:\Users\studentdot0410\Desktop\Cours\API\API_Game\API_Game_BLL\bin\Debug\net6.0\API_Game_DAL.pdb
+C:\Users\studentdot0410\Desktop\Cours\API\API_Game\API_Game_BLL\obj\Debug\net6.0\API_Game_BLL.csproj.AssemblyReference.cache
+C:\Users\studentdot0410\Desktop\Cours\API\API_Game\API_Game_BLL\obj\Debug\net6.0\API_Game_BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\studentdot0410\Desktop\Cours\API\API_Game\API_Game_BLL\obj\Debug\net6.0\API_Game_BLL.AssemblyInfoInputs.cache
+C:\Users\studentdot0410\Desktop\Cours\API\API_Game\API_Game_BLL\obj\Debug\net6.0\API_Game_BLL.AssemblyInfo.cs
+C:\Users\studentdot0410\Desktop\Cours\API\API_Game\API_Game_BLL\obj\Debug\net6.0\API_Game_BLL.csproj.CoreCompileInputs.cache
+C:\Users\studentdot0410\Desktop\Cours\API\API_Game\API_Game_BLL\obj\Debug\net6.0\API_Game_BLL.csproj.CopyComplete
+C:\Users\studentdot0410\Desktop\Cours\API\API_Game\API_Game_BLL\obj\Debug\net6.0\API_Game_BLL.dll
+C:\Users\studentdot0410\Desktop\Cours\API\API_Game\API_Game_BLL\obj\Debug\net6.0\refint\API_Game_BLL.dll
+C:\Users\studentdot0410\Desktop\Cours\API\API_Game\API_Game_BLL\obj\Debug\net6.0\API_Game_BLL.pdb
+C:\Users\studentdot0410\Desktop\Cours\API\API_Game\API_Game_BLL\obj\Debug\net6.0\ref\API_Game_BLL.dll
+C:\Users\vanmo\Desktop\Cours technifutur\API Web\API_Game avec commentaires\API_Game_BLL\obj\Debug\net6.0\API_Game_BLL.csproj.AssemblyReference.cache
+C:\Users\vanmo\Desktop\Cours technifutur\API Web\API_Game avec commentaires\API_Game_BLL\obj\Debug\net6.0\API_Game_BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vanmo\Desktop\Cours technifutur\API Web\API_Game avec commentaires\API_Game_BLL\obj\Debug\net6.0\API_Game_BLL.AssemblyInfoInputs.cache
+C:\Users\vanmo\Desktop\Cours technifutur\API Web\API_Game avec commentaires\API_Game_BLL\obj\Debug\net6.0\API_Game_BLL.AssemblyInfo.cs
+C:\Users\vanmo\Desktop\Cours technifutur\API Web\API_Game avec commentaires\API_Game_BLL\obj\Debug\net6.0\API_Game_BLL.csproj.CoreCompileInputs.cache
+C:\Users\vanmo\Desktop\Cours technifutur\API Web\API_Game avec commentaires\API_Game_BLL\obj\Debug\net6.0\API_Game_BLL.dll
+C:\Users\vanmo\Desktop\Cours technifutur\API Web\API_Game avec commentaires\API_Game_BLL\obj\Debug\net6.0\refint\API_Game_BLL.dll
+C:\Users\vanmo\Desktop\Cours technifutur\API Web\API_Game avec commentaires\API_Game_BLL\obj\Debug\net6.0\API_Game_BLL.pdb
+C:\Users\vanmo\Desktop\Cours technifutur\API Web\API_Game avec commentaires\API_Game_BLL\bin\Debug\net6.0\API_Game_BLL.deps.json
+C:\Users\vanmo\Desktop\Cours technifutur\API Web\API_Game avec commentaires\API_Game_BLL\bin\Debug\net6.0\API_Game_BLL.dll
+C:\Users\vanmo\Desktop\Cours technifutur\API Web\API_Game avec commentaires\API_Game_BLL\bin\Debug\net6.0\API_Game_BLL.pdb
+C:\Users\vanmo\Desktop\Cours technifutur\API Web\API_Game avec commentaires\API_Game_BLL\bin\Debug\net6.0\API_Game_DAL.dll
+C:\Users\vanmo\Desktop\Cours technifutur\API Web\API_Game avec commentaires\API_Game_BLL\bin\Debug\net6.0\API_Game_DAL.pdb
+C:\Users\vanmo\Desktop\Cours technifutur\API Web\API_Game avec commentaires\API_Game_BLL\obj\Debug\net6.0\API_Game_BLL.csproj.CopyComplete
+C:\Users\vanmo\Desktop\Cours technifutur\API Web\API_Game avec commentaires\API_Game_BLL\obj\Debug\net6.0\ref\API_Game_BLL.dll
+C:\Users\vanmo\Desktop\Pour github\API_Game avec commentaires\API_Game_BLL\bin\Debug\net6.0\API_Game_BLL.deps.json
+C:\Users\vanmo\Desktop\Pour github\API_Game avec commentaires\API_Game_BLL\bin\Debug\net6.0\API_Game_BLL.dll
+C:\Users\vanmo\Desktop\Pour github\API_Game avec commentaires\API_Game_BLL\bin\Debug\net6.0\API_Game_BLL.pdb
+C:\Users\vanmo\Desktop\Pour github\API_Game avec commentaires\API_Game_BLL\bin\Debug\net6.0\API_Game_DAL.dll
+C:\Users\vanmo\Desktop\Pour github\API_Game avec commentaires\API_Game_BLL\bin\Debug\net6.0\API_Game_DAL.pdb
+C:\Users\vanmo\Desktop\Pour github\API_Game avec commentaires\API_Game_BLL\obj\Debug\net6.0\API_Game_BLL.csproj.AssemblyReference.cache
+C:\Users\vanmo\Desktop\Pour github\API_Game avec commentaires\API_Game_BLL\obj\Debug\net6.0\API_Game_BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vanmo\Desktop\Pour github\API_Game avec commentaires\API_Game_BLL\obj\Debug\net6.0\API_Game_BLL.AssemblyInfoInputs.cache
+C:\Users\vanmo\Desktop\Pour github\API_Game avec commentaires\API_Game_BLL\obj\Debug\net6.0\API_Game_BLL.AssemblyInfo.cs
+C:\Users\vanmo\Desktop\Pour github\API_Game avec commentaires\API_Game_BLL\obj\Debug\net6.0\API_Game_BLL.csproj.CoreCompileInputs.cache
+C:\Users\vanmo\Desktop\Pour github\API_Game avec commentaires\API_Game_BLL\obj\Debug\net6.0\API_Game_BLL.csproj.CopyComplete
+C:\Users\vanmo\Desktop\Pour github\API_Game avec commentaires\API_Game_BLL\obj\Debug\net6.0\API_Game_BLL.dll
+C:\Users\vanmo\Desktop\Pour github\API_Game avec commentaires\API_Game_BLL\obj\Debug\net6.0\refint\API_Game_BLL.dll
+C:\Users\vanmo\Desktop\Pour github\API_Game avec commentaires\API_Game_BLL\obj\Debug\net6.0\API_Game_BLL.pdb
+C:\Users\vanmo\Desktop\Pour github\API_Game avec commentaires\API_Game_BLL\obj\Debug\net6.0\ref\API_Game_BLL.dll
